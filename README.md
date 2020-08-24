@@ -15,7 +15,7 @@ To identify the employees who will be retiring, the employee and dept_emp tables
 
 # Summary
 #### 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The largest impact the retiring employees will have are roles as Senior Engineer and Senior Staff.  The combined groups account for more than 70% of retiring group.  See the [chart]( ) for details by birth year and by title.  The number of positions to be filled will be almost 17,000.  This approximate amount will need to be filled every year for the next four years.  
+The largest impact the retiring employees will have are roles as Senior Engineer and Senior Staff.  The combined groups account for more than 70% of retiring group.  See the [chart](https://github.com/Eblakeiii/Pewlett-Hackard-Analysis/blob/master/Data/retire_by_dob_title.png) for details by birth year and by title.  The number of positions to be filled will be almost 17,000.  This approximate amount will need to be filled every year for the next four years.  
 
 #### 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 For the most part, yes, there are more than enough retirement-ready employees to mentor the eligible class.  The only positions deficient is the Manager; there are no Managers in the eligible group.  One way to mitigate this is to hire from the outside to fill empty roles.  Another option is to extend the parameter of eligible candidates to include those born in 1964.  Including that group would increase the eligible class by 18,356.  See [chart](  ) for details.   
