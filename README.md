@@ -11,12 +11,14 @@ To identify the employees who will be retiring, the employee and dept_emp tables
 #### 1.  Over 30% of the current employee population is set to retire.
 #### 2.  Roughly 25% of the retiring group will leave each year over a four year span.  See [chart]( ) for details.
 #### 3.  There are only 1,549 employees (2.14% of retiring employees) considered eligible for the mentorship program.  See [chart](  ) for title details.
-#### 4.  There are no manager titled employees eligible for the mentorship program.
-
+#### 4.  There is no Manager positions held by the mentorship eligible group.
 
 # Summary
 ## Provide high-level responses to the following questions, 
 ### then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 #### 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The largest impact the retiring employees will have are roles as Senior Engineer and Senior Staff.  The combined groups account for more than 70% of retiring group.  See the [chart]( ) for details by birth year and by title.  The number of positions to be filled will be almost 17,000.  This approximate amount will need to be filled every year for the next four years.  
+
 #### 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+For the most part, yes, there are more than enough retirement_ready employees to mentor the eligible class.  The only positions deficient is the Manager; there are no Managers in the eligible group.  One way to mitigate this is to broaden the parameters of the eligible class.  See [chart](  ) for details if an additional year was included.
