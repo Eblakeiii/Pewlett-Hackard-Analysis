@@ -8,10 +8,10 @@ The employees csv file contained 300,024 unique record rows, containing all curr
 
 To identify the employees who will be retiring, the employee and dept_emp tables were used, inner join on emp_no.  Criteria was any current employee born between 1/1/1952 and 12/31/1955.  The total number of retiring employees was 72,458.  The distribution by title is shown [here](  ).
 
-### 1.  Over 30% of the current employee population is set to retire.
-### 2.  Roughly 25% of the retiring group will leave each year over a four year span.  See [chart]( ) for details.
-### 3.  There are only 1,549 employees (2.14% of retiring employees) considered eligible for the mentorship program.  See [chart](  ) for title details.
-### 4.  There are no manager titled employees eligible for the mentorship program.
+#### 1.  Over 30% of the current employee population is set to retire.
+#### 2.  Roughly 25% of the retiring group will leave each year over a four year span.  See [chart]( ) for details.
+#### 3.  There are only 1,549 employees (2.14% of retiring employees) considered eligible for the mentorship program.  See [chart](  ) for title details.
+#### 4.  There are no manager titled employees eligible for the mentorship program.
 
 
 # Summary
