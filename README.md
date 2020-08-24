@@ -10,7 +10,7 @@ To identify the employees who will be retiring, the employee and dept_emp tables
 
 #### 1.  Over 30% of the current employee population is set to retire.
 #### 2.  Roughly 25% of the retiring group will leave each year over a four year span.  See [chart](https://github.com/Eblakeiii/Pewlett-Hackard-Analysis/blob/master/Data/retiring_by_dob_yr.png) for details.
-#### 3.  There are only 1,549 employees (2.14% of retiring employees) considered eligible for the mentorship program.  See [chart](  ) for title details.
+#### 3.  There are only 1,549 employees (2.14% of retiring employees) considered eligible for the mentorship program.  See [chart](https://github.com/Eblakeiii/Pewlett-Hackard-Analysis/blob/master/Data/mship_elig.png) for title details.
 #### 4.  There is no Manager positions held by the mentorship eligible group.
 
 # Summary
