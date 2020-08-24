@@ -6,7 +6,7 @@ The goal of this analysis was to determine the number of retiring employees per 
 # Results
 The employees csv file contained 300,024 unique record rows, containing all current and former employees.  The current employee count was 240,124 at the time of this review.  The information showed the earliest hire date was January 1985 and the latest hire date was January 2000.  The oldest employee was born in February 1952 and the youngest employee was born in February 1965. For the employee distribution by department, click [here](https://github.com/Eblakeiii/Pewlett-Hackard-Analysis/blob/master/Data/current_emp.png) to see details.
 
-To identify the employees who will be retiring, the employee and dept_emp tables were used, inner join on emp_no.  Criteria was any current employee born between 1/1/1952 and 12/31/1955.  The total number of retiring employees was 72,458.  The distribution by title is shown [here](  ).
+To identify the employees who will be retiring, the employee and dept_emp tables were used, inner join on emp_no.  Criteria was any current employee born between 1/1/1952 and 12/31/1955.  The total number of retiring employees was 72,458.  The distribution by title is shown [here](https://github.com/Eblakeiii/Pewlett-Hackard-Analysis/blob/master/Data/retiring_emp.png).
 
 #### 1.  Over 30% of the current employee population is set to retire.
 #### 2.  Roughly 25% of the retiring group will leave each year over a four year span.  See [chart]( ) for details.
